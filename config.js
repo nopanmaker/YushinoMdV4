@@ -30,31 +30,31 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281361281833', 'Aldi', true]
+['6285862754807', 'Nopan', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283838186170'
-global.nomorown = '6281361281833'
-global.nomorown2 = '6282376267531'//bisa nama pacarmu
+global.nomorbot = '6283148340038'
+global.nomorown = '6285862754807'
+global.nomorown2 = '6285862754807'//bisa nama pacarmu
 global.nomorwa = '0'//gakusah di ganti
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By Aldi'
-global.namebot = '𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
+global.author = 'Created By Nopan'
+global.namebot = '𝐓𝐨𝐛𝐨𝐭 𝐌𝐝'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐓𝐨𝐛𝐨𝐭 𝐌𝐝'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
 global.wm2 = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝒀𝒖𝒔𝒉𝒊𝒏𝒐𝑴𝒅`
-global.stickpack = '𝑨𝒍𝒅𝒊 𝐗 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝒂𝒑𝒑'
-global.stickauth = `© Yushino MD`
+global.titlebot = `𝐓𝐨𝐛𝐨𝐭 𝐌𝐝`
+global.stickpack = '𝐍𝐨𝐩𝐚𝐧 𝐗 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝒂𝒑𝒑'
+global.stickauth = `© Nopan MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -65,17 +65,17 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/al.0fficial_/'
-global.sgh = 'https://github.com/Aldi-Ganz-Official' //github
+global.sig = 'https://instagram.com/xyznopan'
+global.sgh = 'https://github.com/nopanmaker' //github
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0813 6128 1833'
+global.pdana = '0815-4698-8821'
 global.povo = '-'
-global.pgopay = '0813 6128 1833'
-global.ppulsa = '0813 6128 1833'
-global.ppulsa2 = '083838186170'
+global.pgopay = '0858 6275 4807'
+global.ppulsa = '0858 6275 4807'
+global.ppulsa2 = '085862754807'
 global.psaweria = 'https://saweria.co/hyuura'
 
 
@@ -294,7 +294,7 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 global.flaaa = fla
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/al.0fficial_/"
+global.urlnya = "https://www.instagram.com/xyznopan"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
 global.phn = '0813 6128 1833'
 
